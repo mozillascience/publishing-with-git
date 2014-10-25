@@ -1,4 +1,4 @@
-### Scholarly Review Resources
+## Scholarly Review Resources
 
 #### Ideas in Ecology and Evolution
 
