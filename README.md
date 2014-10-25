@@ -1,4 +1,4 @@
-# Introduction to GitHub for Collaborating and Academic Publishing
+## Introduction to GitHub for Collaborating and Academic Publishing
 
 ### Resources for learning Git and GitHub:
 
