@@ -4,22 +4,20 @@
 
 #### Video/interactive resources
 - [Try Git](http://try.github.com)
+- [Git-It](https://github.com/jlord/git-it)
 - [Git and GitHub foundations](https://www.youtube.com/watch?v=yyLiplDQtf0&list=UUP7RrmoueENv9TZts3HXXtw)
 - [GitHub guides videos](https://www.youtube.com/user/GitHubGuides)
 
 #### Text/offline stuff
-- GitHub Guides: https://guides.github.com/
-- Pro Git: http://git-scm.com/book/en/v2
 
-### Hello World!
-
+##### GitHub Guides
+* https://guides.github.com/
 * https://guides.github.com/activities/hello-world/
 * https://guides.github.com/activities/contributing-to-open-source/
 * https://guides.github.com/activities/citable-code/
 
-### Git-It
-
-* https://github.com/jlord/git-it
+##### Free books
+- Pro Git: http://git-scm.com/book/en/v2
 
 ### Authoring Tools
 
