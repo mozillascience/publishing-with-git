@@ -34,6 +34,13 @@
 * [Using Travis-CI to build LaTeX projects](https://gist.github.com/snim2/9160862)
 * [GH Publisher](https://github.com/ewanmellor/gh-publisher)
 * [SciPy Conference proceedings](https://github.com/scipy-conference/scipy_proceedings)
+ 
+### Free Hosting with GitHub Pages
+* [GitHub Pages](http://pages.github.com)
+* [GitHub Pages default themes](https://github.com/blog/1081-instantly-beautiful-project-pages)
+* [Jekyll Documentation](http://jekyllrb.com)
+* [Forkable Jekyll setup and theme, Hyde](http://hyde.getpoole.com)
+* [Fork-n-Go, forkable static sites](http://jlord.github.io/forkngo)
 
 ### Fun things/something completely different
 
