@@ -1,5 +1,10 @@
 ## Introduction to GitHub for Collaborating and Academic Publishing
 
+### Installing Git
+- http://git-scm.com/downloads
+- https://windows.github.com/
+- https://mac.github.com/
+
 ### Resources for learning Git and GitHub:
 
 #### Video/interactive resources
