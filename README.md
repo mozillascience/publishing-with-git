@@ -27,6 +27,8 @@
 ### Authoring Tools
 
 * [writeLaTeX](https://www.writelatex.com/)
+* [ShareLaTeX](https://www.sharelatex.com/)
+* [Authorea](https://www.authorea.com/)
 * [IPython Notebook](http://ipython.org/notebook.html)
 * [Markdown](https://help.github.com/articles/markdown-basics/)
 * [GitHub Pages](https://pages.github.com/)
